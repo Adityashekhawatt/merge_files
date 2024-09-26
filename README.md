@@ -1,2 +1,2 @@
 # merge_files
-Merge all files 
+Merge all files
